@@ -1,0 +1,1 @@
+{"jobID":"5e3ecd6f-9c2f-972a-e89b-ddf48e428960","spec":{"type":"policy","cause":{"Message":"","User":"Howard Yee \u003choward.yee@casebook.net\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":{"automated":"true"},"remove":null}}},"result":null}
